@@ -21,6 +21,7 @@ html {
   line-height: 25px;
   font-style: normal;
   font-size: 18px;
+  max-width: 240px;
 }
 
 .address__contact {
@@ -95,8 +96,8 @@ html {
 .aligned-text_center {
   display: flex;
   justify-content: center;
-  max-width: 1280px;
   line-height: 100px;
+  padding-right: 60px;
 }
 
 .aligned-text_right {
